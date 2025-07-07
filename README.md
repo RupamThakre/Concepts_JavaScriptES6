@@ -11,7 +11,7 @@ Topics:
 7.	Combining and Slicing array [.concat() | .slice(fromIndex,toIndex) | .slice(fromIndex) | .slice()]
 8.	Spread Operator [[...arr1, '6', ...arr2, '6]]
 9.	Iterating Array [for(let element of elements) | .forEach(()=>{})]
-10.	Joining Array
+10.	Joining Array [.join('|') | .split(' ')]
 11.	Sorting Array
 12.	Testing elements of Array
 13.	Filtering Array elements
