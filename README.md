@@ -2,7 +2,7 @@
 JavaScript Concepts : Array Operations 
 Topics:
 
-1.	Adding elements to Array at beginning, middle, end
+1.	Adding elements to Array [Beginning - .unshift() | End - .push() | Middle - .slice(index, deleteCount, ...items)] 
 2.	Finding elements : primitives
 3.	Finding elements : reference types
 4.	Arrow function
