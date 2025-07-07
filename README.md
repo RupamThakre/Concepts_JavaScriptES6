@@ -14,7 +14,7 @@ Topics:
 10.	Joining Array [.join('|') | .split(' ')]
 11.	Sorting Array [.sort() | .sort(()=>{})]
 12.	Testing elements of Array  [.every(()=>{}) | .some(()=>{})]
-13.	Filtering Array elements
-14.	Mapping Array
+13.	Filtering Array elements [.filter(()=>{})]
+14.	Mapping Array 
 15.	Reducing Array
 16. Function Types [Function Declaration | Expression | Arrow Function ES6]
