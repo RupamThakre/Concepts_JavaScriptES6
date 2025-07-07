@@ -15,6 +15,6 @@ Topics:
 11.	Sorting Array [.sort() | .sort(()=>{})]
 12.	Testing elements of Array  [.every(()=>{}) | .some(()=>{})]
 13.	Filtering Array elements [.filter(()=>{})]
-14.	Mapping Array 
-15.	Reducing Array
+14.	Mapping Array [.map(()=>{})]
+15.	Reducing Array [.reduce((accumulator, currentValue)=>{return accumulator + currentValue}, 0) | .reduce(lambda expression, initial value)]
 16. Function Types [Function Declaration | Expression | Arrow Function ES6]
