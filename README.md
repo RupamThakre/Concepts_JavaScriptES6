@@ -8,7 +8,7 @@ Topics:
 4.	Arrow function
 5.	Remove elements from array [Beginning - .shift() | Middle - .splice(index,deleteCount) | End - .pop()]
 6.	Emptying array 
-7.	Combining and Splicing array
+7.	Combining and Slicing array [.concat() | .slice(fromIndex,toIndex) | .slice(fromIndex) | .slice()]
 8.	Spread Operator 
 9.	Iterating Array
 10.	Joining Array
