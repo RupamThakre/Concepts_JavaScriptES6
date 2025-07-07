@@ -5,7 +5,7 @@
 // numbers.indexOf(1) !== -1
 // numbers.includes(1);
 
-const numbers = [1,2,3,1,4];
+const numbers = [1, 2, 3, 1, 4];
 
 console.log(numbers.indexOf(3)); //2
 

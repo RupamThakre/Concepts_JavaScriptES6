@@ -4,7 +4,7 @@ Topics:
 
 1.	Adding elements to Array [Beginning - .unshift() | End - .push() | Middle - .splice(index, deleteCount, ...items)] 
 2.	Finding elements : primitives [.indexOf() | .lastIndexOf() | .includes() ]
-3.	Finding elements : reference types
+3.	Finding elements : reference types [.find(()=>{}) | .findIndex(()=>{})]
 4.	Arrow function
 5.	Remove elements from array
 6.	Emptying array
