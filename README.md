@@ -6,7 +6,7 @@ Topics:
 2.	Finding elements : primitives [.indexOf() | .lastIndexOf() | .includes() ]
 3.	Finding elements : reference types [.find(()=>{}) | .findIndex(()=>{})]
 4.	Arrow function
-5.	Remove elements from array
+5.	Remove elements from array [Beginning - .shift() | Middle - .splice(index,deleteCount) | End - .pop()]
 6.	Emptying array
 7.	Combining and Splicing array
 8.	Spread Operator 
