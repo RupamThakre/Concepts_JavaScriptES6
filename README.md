@@ -9,8 +9,8 @@ Topics:
 5.	Remove elements from array [Beginning - .shift() | Middle - .splice(index,deleteCount) | End - .pop()]
 6.	Emptying array 
 7.	Combining and Slicing array [.concat() | .slice(fromIndex,toIndex) | .slice(fromIndex) | .slice()]
-8.	Spread Operator 
-9.	Iterating Array
+8.	Spread Operator [[...arr1, '6', ...arr2, '6]]
+9.	Iterating Array 
 10.	Joining Array
 11.	Sorting Array
 12.	Testing elements of Array
