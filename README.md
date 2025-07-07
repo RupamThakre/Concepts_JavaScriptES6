@@ -17,3 +17,4 @@ Topics:
 13.	Filtering Array elements
 14.	Mapping Array
 15.	Reducing Array
+16. Function Types [Function Declaration | Expression | Arrow Function ES6]
