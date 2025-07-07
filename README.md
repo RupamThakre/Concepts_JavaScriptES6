@@ -12,7 +12,7 @@ Topics:
 8.	Spread Operator [[...arr1, '6', ...arr2, '6]]
 9.	Iterating Array [for(let element of elements) | .forEach(()=>{})]
 10.	Joining Array [.join('|') | .split(' ')]
-11.	Sorting Array
+11.	Sorting Array [.sort() | .sort(()=>{})]
 12.	Testing elements of Array
 13.	Filtering Array elements
 14.	Mapping Array
