@@ -10,7 +10,7 @@ Topics:
 6.	Emptying array 
 7.	Combining and Slicing array [.concat() | .slice(fromIndex,toIndex) | .slice(fromIndex) | .slice()]
 8.	Spread Operator [[...arr1, '6', ...arr2, '6]]
-9.	Iterating Array 
+9.	Iterating Array [for(let element of elements) | .forEach(()=>{})]
 10.	Joining Array
 11.	Sorting Array
 12.	Testing elements of Array
