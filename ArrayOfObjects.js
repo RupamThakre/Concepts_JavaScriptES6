@@ -33,3 +33,15 @@ console.log(user2);
 //7. Fetch index of user whose age is 13
 let index = users.findIndex(user => user.age === 13);
 console.log(index);
+
+//8. Updating user with id=2
+const findIndex = users.findIndex(user => user.id === 2);
+if (findIndex !== -1) {
+    users[findIndex] = { ...users[findIndex], name: "updated", age: 33 };
+}
+console.log(users);
+
+//9. Updating user with id =3
+users[2] = { ...users[2], age: 44 };
+console.log(users);
+
