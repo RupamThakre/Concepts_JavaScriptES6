@@ -1,4 +1,5 @@
 # JS_JavaScriptES6
-JavaScript Concepts
+JavaScript Concepts : Operations on Array of Objects
 
-1. Array Operations : https://github.com/RupamThakre/JS_JavaScriptES6/tree/JS_Array_Operations
+1. Adding new element : START - .unshift() | END - .push() | MIDDLE - .splice(index, deleteCount, ...items)
+
