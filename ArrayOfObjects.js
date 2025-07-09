@@ -45,3 +45,24 @@ console.log(users);
 users[2] = { ...users[2], age: 44 };
 console.log(users);
 
+let users = [
+    { id: 1, name: "Ali", age: 12 },
+    { id: 2, name: "Baba", age: 13 },
+    { id: 3, name: "Cipher", age: 14 }
+];
+
+//10. Delete using .filter [non-mutating : create a new array]
+const newUsers = users.filter(user => user.id !== 2);
+console.log(newUsers);
+
+//11. Delete using .splice() [mutating - direct modification]
+users.splice(1, 1);
+console.log(users);
+
+//12. Delete using .pop() [Last element]
+users.pop();
+console.log(users);
+
+//13. Delete using .shift() [First element]
+users.shift();
+console.log(users);
