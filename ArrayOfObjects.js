@@ -17,3 +17,19 @@ console.log(users);
 //3. Adding new user - MIDDLE
 users.splice(1, 0, { id: 5, name: "Middle", age: 17 });
 console.log(users);
+
+//4. Fetch user with id=1
+let user = users.find(user => user.id === 1);
+console.log(user);
+
+//5. Fetch user with name="Baba"
+let user1 = users.find(user => user.name === "Baba");
+console.log(user1);
+
+//6. Fetch user with age=14
+let user2 = users.find(user => user.age === 14);
+console.log(user2);
+
+//7. Fetch index of user whose age is 13
+let index = users.findIndex(user => user.age === 13);
+console.log(index);
