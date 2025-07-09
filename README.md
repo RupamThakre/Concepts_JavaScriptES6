@@ -13,3 +13,6 @@ JavaScript Concepts : Operations on Array of Objects
 
 ![image](https://github.com/user-attachments/assets/28c82ae6-1ac9-43b2-a648-91a9a011cdf7)
 
+4. Deleting Items
+
+![image](https://github.com/user-attachments/assets/a4f89cbe-93a8-47ce-92fe-a74b018b5442)
